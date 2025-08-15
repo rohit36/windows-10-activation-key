@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rohit36">
-    <img src=".windows-10-activation-key/assets/Windows_10_Logo.png" alt="Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/2560px-Windows_10_Logo.svg.png" alt="Logo">
   </a>
 
   <h3 align="center">Windows 10 Activator</h3>
